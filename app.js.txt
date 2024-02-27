@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 first line of code executed in main branch
 second line of code is written by feature branch
 third line of code written by main branch
